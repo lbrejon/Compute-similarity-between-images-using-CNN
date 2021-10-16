@@ -26,14 +26,14 @@ Compute cosine similarity with VGG16 and ResNet50
 
 <p align="center">
   <kbd>
-  <img src="https://user-images.githubusercontent.com/56866008/137598108-3b615aad-a7bf-4202-ad55-caf2bae4c767.JPG"><br>
+  <img src="https://user-images.githubusercontent.com/56866008/137598343-0b390129-f0df-4bc1-b3eb-d12e44d3c724.JPG"><br>
   </kbd><br>
   <b>[Figure 4]: Comparison of cosine similarity between VGG16 and ResNet50</b><br>
 </p>
 
 <p align="center">
   <kbd>
-  <img src="https://user-images.githubusercontent.com/56866008/137598109-8bab5f10-e5b3-4340-93e8-d333372e63c1.JPG"><br>
+  <img src="https://user-images.githubusercontent.com/56866008/137598327-f3ec9f62-cac8-44c8-8141-8bbe3d39757c.JPG"><br>
   </kbd><br>
   <b>[Figure 5]: Computation similarity process</b><br>
 </p>
@@ -47,7 +47,7 @@ Compute cosine similarity with VGG16 and ResNet50
 
 <p align="center">
   <kbd>
-  <img src="https://user-images.githubusercontent.com/56866008/137598140-05118e40-4760-4c31-a15f-4cf90c4d91c9.JPG"><br>
+  <img src="https://user-images.githubusercontent.com/56866008/137598359-6f69245d-7eee-4a98-a544-1279d2e64166.JPG"><br>
   </kbd><br>
   <b>[Figure 7]: Cosine similarity with augmented images using VGG16</b><br>
 </p>
