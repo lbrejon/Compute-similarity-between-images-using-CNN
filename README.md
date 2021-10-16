@@ -12,7 +12,7 @@ Compute cosine similarity with VGG16 and ResNet50
 
 <p align="center">
   <kbd>
-  <img src="!https://user-images.githubusercontent.com/56866008/137598094-91f2f04d-6575-4df7-b006-573ac8681b2f.png"><br>
+  <img src="https://user-images.githubusercontent.com/56866008/137598094-91f2f04d-6575-4df7-b006-573ac8681b2f.png"><br>
   </kbd><br>
   <b>[Figure 2]: Architecture of the VGG16</b><br>
 </p>
